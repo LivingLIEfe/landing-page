@@ -1,0 +1,41 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.flex-item{
+    min-height: 400px;
+}
+
+
+
+.flex-item-1{
+    background-color: #1f2937;
+}
+
+.flex-item-2{
+    background-color:#FFFF ;
+
+}
+
+.flex-item-3{
+    background-color: #E5E7EB;
+}
+
+
+
+.flex-container-2{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-container-3{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+
+
